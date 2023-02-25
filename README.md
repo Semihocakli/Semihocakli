@@ -42,8 +42,6 @@ To learn more about me, you can check out my profile description or explore my p
 
 <p>
 
-
-  
 </p>
 
 ## 📫 Contact Me
