@@ -21,8 +21,6 @@ My learning areas include web development, mobile application development, artif
 To learn more about me, you can check out my profile description or explore my projects. If you're interested in working with me or collaborating on a project, please feel free to reach out to me. Thanks for stopping by!
 <p>
   
-<a href="https://twitter.com/yasinatesim"><img src="https://img.shields.io/badge/Twitter-%23303036?logo=twitter&color=%23303036&style=flat-square">
-</a>
 <a href="https://www.linkedin.com/in/ocaklisemih/"><img src="https://img.shields.io/badge/Linkedin-%23303036?logo=linkedin&color=%23303036&style=flat-square"></a>
 <a href="https://medium.com/@semihocakli">
 <img src="https://img.shields.io/badge/Medium-%23303036?logo=medium&color=%23303036&style=flat-square">
