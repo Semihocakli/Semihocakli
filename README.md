@@ -49,6 +49,7 @@ To learn more about me, you can check out my profile description or explore my p
     <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"></code>
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
+   <code><img title="Flutter" height="25"                       src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"></code>
   </p>
 
 ## 📫 Contact Me
