@@ -45,7 +45,7 @@ To learn more about me, you can check out my profile description or explore my p
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/css.svg"></code>
-     <code><img title="BootStrap" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/Bootstrap_logo.svg.png"></code>
+    <code><img title="BootStrap" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/Bootstrap_logo.svg.png"></code>
     <code><img title="Git" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/git-original.svg"></code>
     <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/vscode.png"></code>
     <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/visualstudio.png"></code>
