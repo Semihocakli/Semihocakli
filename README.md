@@ -42,7 +42,7 @@ To learn more about me, you can check out my profile description or explore my p
 <p align="center">
     <code><img title="C" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/c.svg"></code>
     <code><img title="Python" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/python-original.svg"></code>
-    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/flask.png></code>
+    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/flask-logo-44C507ABB7-seeklogo.com.png"></code>
     <code><img title="Django" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/django-icon-0.jpg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/Semihocakli/semihocakli/main/images/html5.svg"></code>
