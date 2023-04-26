@@ -32,10 +32,6 @@ To learn more about me, you can check out my profile description or explore my p
 #### Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Eğitimi
 [Eğitimi İncelemek İçin Linke Tıklayabilirsiniz.](http://lnk.ktlzr.co/gtrpdj)
 
-
-
-
-
 ## 📚 My Skills
 
 <br>
