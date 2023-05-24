@@ -25,8 +25,7 @@ To learn more about me, you can check out my profile description or explore my p
 <a href="https://medium.com/@semihocakli">
 <img src="https://img.shields.io/badge/Medium-%23303036?logo=medium&color=%23303036&style=flat-square">
 </a>
-<a href="https://www.kaggle.com/semihocakli"><img src="[![Kaggle](https://img.shields.io/badge/Kaggle-%23303036?logo=kaggle&color=%23303036&style=flat-square)](https://www.kaggle.com)
-"></a>
+<a href="https://www.kaggle.com/semihocakli"><img src="https://img.shields.io/badge/Kaggle-%23303036?logo=kaggle&color=%23303036&style=flat-square"></a>
 </p>
 
 ### 🌱  I'm currently learning 
