@@ -12,13 +12,13 @@ I'm a **Developer-Ceng Student** in Izmir/Turkey
 
 ## 📖 About Me
 
-Hello and welcome to my GitHub profile! My name is Semih, and I am a software developer.
+Hello and welcome to my GitHub profile! My name is Semih and I am a software developer.
 
-I love writing code and contributing to open source projects, which is why GitHub is like heaven to me. It provides a great platform for sharing my skills and experiences in software development, discovering new technologies, and collaborating with other developers.
+I love writing code and contributing to open source projects, which is why GitHub is heaven for me. It provides a great platform to share my software development skills and experiences, discover new technologies, and collaborate with other developers.
 
-My learning areas include web development, mobile application development, artificial intelligence. However, I am constantly learning new things and trying to improve myself. Besides that, one of the important things for me is to be mindful of things like code quality and user experience.
+My learning areas include web development, mobile application development, and artificial intelligence. However, I am always learning new things and trying to improve myself. Besides that, one of the most important things for me is to pay attention to things like code quality and user experience.
 
-To learn more about me, you can check out my profile description or explore my projects. If you're interested in working with me or collaborating on a project, please feel free to reach out to me. Thanks for stopping by!
+To learn more about me, you can read my profile description or explore my projects. If you're interested in working with me or collaborating on a project, please feel free to contact me. Thanks for stopping by!
 <p>
   
 <a href="https://www.linkedin.com/in/ocaklisemih/"><img src="https://img.shields.io/badge/Linkedin-%23303036?logo=linkedin&color=%23303036&style=flat-square"></a>
