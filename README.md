@@ -29,8 +29,8 @@ To learn more about me, you can read my profile description or explore my projec
 </p>
 
 ### 🌱  I'm currently learning 
-#### Udemy: Uçtan Uca Projelerle Sıfırdan Full Stack Python ve Django Eğitimi
-[Eğitimi İncelemek İçin Linke Tıklayabilirsiniz.](http://lnk.ktlzr.co/gtrpdj)
+#### Udemy: Derin Öğrenme ile Görüntü İşleme: Python OpenCV Keras 
+[Eğitimi İncelemek İçin Linke Tıklayabilirsiniz.](https://www.udemy.com/course/derin-ogrenme-ile-goruntu-isleme-python-opencv-ve-keras)
 
 ## 📚 My Skills
 
